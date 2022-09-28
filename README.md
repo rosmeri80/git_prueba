@@ -9,3 +9,7 @@
 - **git checkout RAMA**: pasarme una rama
 - **git checkout -b RAMA**: crear y pasarme una rama
 - **git remote -v**: para verificar donde esta guardado el archivo
+
+## anotaciones
+- el primer push es **git push -u origin master**
+1. guardar el archivo
