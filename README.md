@@ -13,3 +13,5 @@
 ## anotaciones
 - el primer push es **git push -u origin master**
 1. guardar el archivo
+
+nueva linea
